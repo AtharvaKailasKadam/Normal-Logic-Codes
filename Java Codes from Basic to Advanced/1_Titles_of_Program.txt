@@ -1,0 +1,204 @@
+Basics & Input/Output
+C1. Print "Hello, World!" in Java
+
+C2. Program to Print Your Name
+
+C3. Sum of Two Numbers
+
+C4. Difference of Two Numbers
+
+C5. Product and Quotient of Two Numbers
+
+C6. Program to Swap Two Numbers
+
+C7. Check if a Number is Even or Odd
+
+C8. Check if a Number is Positive, Negative, or Zero
+
+C9. Find the Largest of Three Numbers
+
+C10. Check if a Character is a Vowel or Consonant
+
+C11. Compute the Average of N Numbers
+
+C12. Print Multiplication Table of a Number
+
+C13. Print Fibonacci Series up to N Terms
+
+C14. Print Factorial of a Number
+
+C15. Print All Prime Numbers up to N
+
+C16. Check if a Number is Prime
+
+C17. Sum of Digits of a Number
+
+C18. Reverse a Number
+
+C19. Count the Number of Digits
+
+C20. Palindrome Number Check
+
+🟡 Loops, Arrays & Strings
+C21. Find Maximum and Minimum in an Array
+
+C22. Reverse an Array
+
+C23. Sum of Elements in an Array
+
+C24. Average of Elements in an Array
+
+C25. Search an Element in an Array (Linear Search)
+
+C26. Implement Binary Search
+
+C27. Bubble Sort an Array
+
+C28. Selection Sort an Array
+
+C29. Insertion Sort an Array
+
+C30. Merge Two Sorted Arrays
+
+C31. Check if a String is a Palindrome
+
+C32. Count Vowels, Consonants, Digits and Spaces in a String
+
+C33. Convert String to Uppercase and Lowercase
+
+C34. Reverse a String
+
+C35. Check if Two Strings Are Anagrams
+
+C36. Find the Length of a String
+
+C37. Remove Whitespaces from a String
+
+C38. Count the Frequency of Each Character in a String
+
+C39. Print Duplicate Characters in a String
+
+C40. Print ASCII Value of a Character
+
+🟠 Object-Oriented Concepts
+C41. Create a Java Class with Fields and Methods
+
+C42. Implement Constructors and Overloading
+
+C43. Implement Method Overloading and Overriding
+
+C44. Implement Single Inheritance
+
+C45. Implement Multilevel Inheritance
+
+C46. Implement Multiple Inheritance (using Interfaces)
+
+C47. Implement Encapsulation with Getters and Setters
+
+C48. Implement Abstraction with Abstract Classes
+
+C49. Implement an Interface with Multiple Methods
+
+C50. Demonstrate this and super Keywords
+
+C51. Implement Static Members (Variables and Methods)
+
+C52. Demonstrate Polymorphism with Shapes (Circle, Rectangle)
+
+C53. Implement the instanceof Operator
+
+C54. Demonstrate the use of final Keyword
+
+C55. Implement Nested Classes and Inner Classes
+
+C56. Implement Enum Types
+
+C57. Implement a Singleton Class
+
+C58. Implement a Copy Constructor
+
+C59. Demonstrate Command Line Arguments
+
+C60. Implement a Simple Interface-based Callback
+
+🔵 Collections & Generics
+C61. Demonstrate ArrayList Operations
+
+C62. Demonstrate LinkedList Operations
+
+C63. Implement Stack Using ArrayDeque
+
+C64. Implement a Queue Using LinkedList
+
+C65. Iterate over Collections with Iterators
+
+C66. Implement a HashSet
+
+C67. Implement a HashMap
+
+C68. Sort a List with Collections.sort()
+
+C69. Implement a PriorityQueue
+
+C70. Implement a TreeSet
+
+C71. Demonstrate Generic Classes
+
+C72. Demonstrate Bounded Type Parameters
+
+C73. Implement a Generic Method
+
+C74. Demonstrate Wildcards (? extends, ? super)
+
+C75. Implement Comparable and Comparator
+
+C76. Implement a Custom Iterator
+
+C77. Demonstrate Collections.unmodifiableList
+
+C78. Convert Array to List and List to Array
+
+C79. Implement Nested Collections (e.g. Map of Lists)
+
+C80. Frequency Count of Words using HashMap
+
+🟣 Advanced Topics
+C81. Read a File Line by Line
+
+C82. Write to a File Using BufferedWriter
+
+C83. Serialize and Deserialize an Object
+
+C84. Implement Multi-Threading with Threads
+
+C85. Implement Multi-Threading with Executors
+
+C86. Synchronize Shared Resources
+
+C87. Demonstrate Deadlocks
+
+C88. Implement Producer-Consumer with wait/notify
+
+C89. Schedule Tasks with ScheduledExecutorService
+
+C90. Implement a Custom Exception
+
+C91. Demonstrate Lambda Expressions
+
+C92. Demonstrate Streams API (Filter, Map, Reduce)
+
+C93. Implement Optional to Avoid Null Checks
+
+C94. Parallel Stream Processing
+
+C95. Fetch Data from a URL Using HttpURLConnection
+
+C96. Parse JSON using org.json or Jackson
+
+C97. Parse XML using DOM/SAX Parsers
+
+C98. Implement Reflection to Inspect Classes
+
+C99. Implement Annotations and Custom Annotations
+
+C100. Implement a RESTful Web Service with Spring Boot

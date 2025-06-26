@@ -40,7 +40,7 @@ public static void main(String[] args)
 
         System.out.println("The Two Numbers are " + Num1 + " and " + Num2);
         System.out.println("");
-
+        scanner.close();
 
         C5_Product_and_Quotient_of_Two_Numbers PQ = new C5_Product_and_Quotient_of_Two_Numbers();
         PQ.Product(Num1, Num2);

@@ -30,6 +30,7 @@ class C7_Even_or_Odd {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the Number to be Checked as 'Even' of 'Odd' : ");
         float x = scanner.nextFloat();
+        scanner.close();
 
         System.out.println("\nThe Entered Number is : "+ x );
 

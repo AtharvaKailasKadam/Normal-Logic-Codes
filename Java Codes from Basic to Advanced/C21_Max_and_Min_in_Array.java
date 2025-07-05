@@ -37,3 +37,5 @@ class C21_Max_and_Min_in_Array
         scanner.close();
     }
 }
+
+// Not able to take or accept values of array from the USER.

@@ -26,7 +26,7 @@ class C21_Max_and_Min_in_Array
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the Size of the Array : ");
         int size = scanner.nextInt();
-        
+
 // This is used to Declare the Array in Java.
         int[] arr = new int[size];
 

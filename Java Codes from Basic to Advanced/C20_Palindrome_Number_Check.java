@@ -16,7 +16,7 @@ public class C20_Palindrome_Number_Check
         }
         if(reverse == original)
         {
-            System.out.println("The Number "+ original + " is a Palindrome.");
+            System.out.println("The Number "+ original + " is a Palindrome...!");
         }
         else
         {

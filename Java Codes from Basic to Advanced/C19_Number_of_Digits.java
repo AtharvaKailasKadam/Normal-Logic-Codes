@@ -26,6 +26,5 @@ public class C19_Number_of_Digits
 
         C19_Number_of_Digits NoD = new C19_Number_of_Digits();
         NoD.Number_of_Digits(a);
-
     }
 }

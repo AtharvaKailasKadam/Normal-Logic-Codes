@@ -8,9 +8,12 @@ public class C22_Reverse_An_Array
         int[] NumArr = arr.clone();
         System.out.println("The Original Array is : " + Arrays.toString(arr));
 
-        for(int i = NumArr.length-1; i >= 0; i--)
+        for(int i = 0; i < NumArr.length / 2; i++)
         {
-            System.out.println(NumArr[i]);
+            int temp;
+            temp = NumArr[i];
+            NumArr[i] = NumArr[NumArr.length-1-i];
+            NumArr[NumArr.length-1-i] = temp;
         }
         System.out.println("The Reversed Array is : " + Arrays.toString(NumArr));
     }
@@ -33,3 +36,6 @@ public class C22_Reverse_An_Array
         RaN.Reverse_Array(num);
     }
 }
+// This Method was New to me and thus Took Time to Implement.
+// Obviously My Fault.
+// But... Done and Dusted..!

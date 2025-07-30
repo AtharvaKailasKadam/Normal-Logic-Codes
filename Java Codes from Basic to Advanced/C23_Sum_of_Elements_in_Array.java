@@ -33,6 +33,5 @@ public class C23_Sum_of_Elements_in_Array
         C23_Sum_of_Elements_in_Array SEA = new C23_Sum_of_Elements_in_Array();
         SEA.Sum_of_Array_Elements(NumArr);
     }
-
 }
 

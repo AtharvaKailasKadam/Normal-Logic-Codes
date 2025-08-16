@@ -46,7 +46,7 @@ public class C26_Binary_Search
         Scanner scanner = new Scanner(System.in);
         int size = scanner.nextInt();
 
-        System.out.println("Enter the Elements in the Array : ");
+        System.out.println("Enter the Elements in the Array iin Sorted Format : ");
         int[] Array = new int[size];
 
         for(int i = 0; i < size; i++)
@@ -64,3 +64,9 @@ public class C26_Binary_Search
 
     }
 }
+
+// Time Complexity :--
+// O(log n) in Worst case
+// O(1) in Best case when the element is found at mid position
+// Space Complexity = O(1) as we are not using any extra space
+// Note: The array must be sorted for binary search to work correctly.

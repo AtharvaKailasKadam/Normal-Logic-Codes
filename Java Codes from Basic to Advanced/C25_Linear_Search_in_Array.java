@@ -56,3 +56,8 @@ public class C25_Linear_Search_in_Array
         LSA.Liner_Search(Array, keyElement);
     }
 }
+
+// Time Complexity :--
+// O(n) in Worst case
+// O(1) in Best case when the element is found at first position
+// Space Complexity = O(1) as we are not using any extra space

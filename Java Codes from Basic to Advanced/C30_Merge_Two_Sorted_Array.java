@@ -47,7 +47,7 @@ public class C30_Merge_Two_Sorted_Array
         System.out.println("Enter the Size of teh First Array : ");
         int Size1 = scanner.nextInt();
 
-        System.out.println("Enter the Elements in the First Array : ");
+        System.out.println("Enter the Elements in the First Array (Sorted) : ");
         int[] Array1 = new int[Size1];
         for(int i = 0; i < Size1; i++)
         {
@@ -55,7 +55,8 @@ public class C30_Merge_Two_Sorted_Array
         }
 
 
-        System.out.println("Enter the Size of the Second Array : ");
+        System.out.println("Enter the Size of the Second Array (Sorted) : ");
+
         int Size2 = scanner.nextInt();
 
         int[] Array2 = new int[Size2];

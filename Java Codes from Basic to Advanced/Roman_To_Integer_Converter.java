@@ -5,7 +5,7 @@ public class Roman_To_Integer_Converter
     public void RomanToInteger(String s)
     {
 
-        HashMap<Character, Integer> RomanMap = new HashMap();
+        HashMap<Character, Integer> RomanMap = new HashMap<>();
         RomanMap.put('I', 1);
         RomanMap.put('V', 5);
         RomanMap.put('X', 10);
@@ -19,20 +19,17 @@ public class Roman_To_Integer_Converter
 
         for(int i = 0; i < s.length(); i++)
         {
-            if(i <= s.length())
-            {
-                int currentValue = RomanMap.get(s.charAt(i));
+            int currentValue = RomanMap.get(s.charAt(i));
 
-                if(currentValue > prevValue)
-                {
-                    total = total + currentValue - 2*prevValue;
-                }
-                else
-                {
-                    total = total + currentValue;
-                }
-                currentValue = prevValue;
+            if(currentValue > prevValue)
+            {
+                total = total + currentValue - 2*prevValue;
             }
+            else
+            {
+                    total = total + currentValue;
+            }
+            prevValue = currentValue;
         }
         System.out.println("Roman = " + s + " + Integer = " + total);
     }

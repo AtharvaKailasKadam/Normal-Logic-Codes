@@ -14,20 +14,34 @@ public class Roman_To_Integer_Converter
         RomanMap.put('D', 500);
         RomanMap.put('M', 1000);
 
-        System.out.println("Roman to Integer Converter");
-
         int total = 0;
         int prevValue = 0;
 
-        for(int i = 0; i <= s.length(); i++)
+        for(int i = 0; i < s.length(); i++)
         {
+            if(i <= s.length())
+            {
+                int currentValue = RomanMap.get(s.charAt(i));
 
+                if(currentValue > prevValue)
+                {
+                    total = total + currentValue - 2*prevValue;
+                }
+                else
+                {
+                    total = total + currentValue;
+                }
+                currentValue = prevValue;
+            }
         }
-
+        System.out.println("Roman = " + s + " + Integer = " + total);
     }
 
     public static void main(String[] args)
     {
+
+        System.out.println("Roman to Integer Converter");
+
         String RomanNumber1 = "III";
         String RomanNumber2 = "IV";
         String RomanNumber3 = "IX";

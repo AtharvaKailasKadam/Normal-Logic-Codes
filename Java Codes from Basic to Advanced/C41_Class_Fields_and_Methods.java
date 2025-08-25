@@ -1,4 +1,4 @@
-public class C31_Class_Fields_and_Methods
+public class C41_Class_Fields_and_Methods
 {
     String name;
     int age;
@@ -22,7 +22,7 @@ public class C31_Class_Fields_and_Methods
 
     public static void main(String[] args)
     {
-        C31_Class_Fields_and_Methods obj = new C31_Class_Fields_and_Methods();
+        C41_Class_Fields_and_Methods obj = new C41_Class_Fields_and_Methods();
         obj.setData("Atharva", 20, 'M');
         obj.displayData();
 

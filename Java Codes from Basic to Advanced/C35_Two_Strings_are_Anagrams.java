@@ -8,7 +8,6 @@ public class C35_Two_Strings_are_Anagrams
         String string2 = str1.toLowerCase();
         int len = str1.length();
 
-        char char1, char2;
         boolean flag;
 
         if(str1.length() != str2.length())
@@ -55,8 +54,14 @@ public class C35_Two_Strings_are_Anagrams
         C35_Two_Strings_are_Anagrams A = new C35_Two_Strings_are_Anagrams();
         boolean b = A.Anagram(str1, str2);
         System.out.println("----------------------------");
-        System.out.println(b);
-        System.out.println("----------------------------");
 
+        if(b)
+            System.out.println("The Two Strings i.e. "+ str1 + " and " + str2 + " are ANAGRAMS...!");
+        else
+            System.out.println("The Two Strings i.e. "+ str1 + " and " + str2 + " are not ANAGRAMS...!");
+
+        System.out.println("----------------------------");
+        System.out.println("End of the Program");
+        System.out.println("----------------------------");
     }
 }

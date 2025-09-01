@@ -12,8 +12,6 @@ public class C37_Remove_WhiteSpaces {
                 j++;
             }
         }
-
-        // Create new string from valid characters
         String result = new String(chars, 0, j);
         System.out.println("String without whitespaces: " + result);
     }

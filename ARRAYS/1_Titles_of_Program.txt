@@ -1,0 +1,45 @@
+🔹 Array DSA Practice Questions
+
+A1. Find Maximum and Minimum in an Array
+A2. Reverse an Array
+A3. Sum of All Elements in an Array
+A4. Average of Elements in an Array
+A5. Search an Element in an Array (Linear Search)
+A6. Implement Binary Search on a Sorted Array
+A7. Find the Second Largest Element in an Array
+A8. Count Even and Odd Numbers in an Array
+A9. Find the Frequency of Each Element in an Array
+A10. Remove Duplicates from an Array
+
+A11. Rotate an Array by k Positions
+A12. Move All Zeros to the End of the Array
+A13. Find Missing Number in an Array (1 to n)
+A14. Find Duplicate Elements in an Array
+A15. Merge Two Sorted Arrays
+A16. Find Intersection of Two Arrays
+A17. Find Union of Two Arrays
+A18. Rearrange Array Alternately (positive, negative)
+A19. Find Leader Elements in an Array
+A20. Find the Majority Element (> n/2 times)
+
+A21. Find Maximum Sum Subarray (Kadane’s Algorithm)
+A22. Find Subarray with Given Sum
+A23. Find Equilibrium Index of an Array
+A24. Find Peak Element in an Array
+A25. Find Pair with Given Sum in an Array
+A26. Find Triplet with Given Sum in an Array
+A27. Sort an Array of 0s, 1s, and 2s (Dutch National Flag Problem)
+A28. Find Median of an Unsorted Array
+A29. Find Longest Consecutive Subsequence
+A30. Find Minimum Number of Jumps to Reach End
+
+A31. Trapping Rain Water Problem
+A32. Maximum Product Subarray
+A33. Minimum Element in a Rotated Sorted Array
+A34. Search in a Rotated Sorted Array
+A35. Find First and Last Occurrence of an Element
+A36. Count Inversions in an Array
+A37. Maximum Profit from Stock Prices (Buy-Sell Problem)
+A38. Find k-th Largest and Smallest Element in an Array
+A39. Find All Subarrays with Sum Equal to k
+A40. Maximum Circular Subarray Sum

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Duplicate_Values_in_String
+public class C39_Duplicate_Values_in_String
 {
     public void DuplicateValuesInString(String str)
     {
@@ -41,7 +41,7 @@ public class Duplicate_Values_in_String
         String string = scanner.nextLine();
         scanner.close();
 
-        Duplicate_Values_in_String DVS = new Duplicate_Values_in_String();
+        C39_Duplicate_Values_in_String DVS = new C39_Duplicate_Values_in_String();
         DVS.DuplicateValuesInString(string);
     }
 }

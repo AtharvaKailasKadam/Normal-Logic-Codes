@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class A12_Move_All_Zeros_At_The_End
@@ -19,11 +20,7 @@ public class A12_Move_All_Zeros_At_The_End
             arr[count] = 0;
             count++;
         }
-        System.out.println("The Elements in the Array After Moving the Elements at the End : ");
-        for(int i = 0; i < arr.length; i++)
-        {
-            System.out.println(arr[i]);
-        }
+        System.out.println("The Elements in the Array After Moving the Elements at the End : "+Arrays.toString(arr));
     }
     public static void main(String args[])
     {

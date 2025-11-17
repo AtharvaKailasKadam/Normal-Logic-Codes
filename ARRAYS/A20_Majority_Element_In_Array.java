@@ -6,7 +6,25 @@ public class A20_Majority_Element_In_Array
     public void MajorityElementInArray(int[] Array, int Len)
     {
         boolean isMajority;
-
+        int halfLength = Len / 2;
+        for(int i = 0; i < Len; i++)
+        {
+            int count = 1;
+            isMajority = true;
+            for(int j = i + 1; j < Len; j++)
+            {
+                if(Array[i] == Array[j])
+                {
+                    count++;
+                    if(count > halfLength)
+                    {
+                        System.out.println("Majority Element is : " +Array[i]);
+                        isMajority = false;
+                        break;
+                    }
+                }
+            }
+        }
     }
     public static void main(String[] args)
     {
@@ -24,7 +42,7 @@ public class A20_Majority_Element_In_Array
         }
         scanner.close();
 
-        System.out.println("The Majority Elements in the Array are : " +Arrays.toString(Array));
+        System.out.println("The Elements in the Array are : " +Arrays.toString(Array));
 
         A20_Majority_Element_In_Array MEIA = new A20_Majority_Element_In_Array();
         MEIA.MajorityElementInArray(Array, n);

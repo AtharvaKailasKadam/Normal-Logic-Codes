@@ -45,3 +45,39 @@ A39. Find All Subarrays with Sum Equal to k
 A40. Maximum Circular Subarray Sum
 
 More to go....
+
+
+Problems Present in the LeetCode
+
+A2. Reverse an Array — LeetCode 344
+A6. Implement Binary Search on a Sorted Array — LeetCode 704
+A10. Remove Duplicates from an Array — LeetCode 26 / 80
+A11. Rotate an Array by k Positions — LeetCode 189
+A12. Move All Zeros to the End of the Array — LeetCode 283
+A13. Find Missing Number in an Array (1 to n) — LeetCode 268
+A14. Find Duplicate Elements in an Array — LeetCode 287
+A15. Merge Two Sorted Arrays — LeetCode 88
+A16. Find Intersection of Two Arrays — LeetCode 349 / 350
+A18. Rearrange Array Alternately (positive, negative) — LeetCode 2149
+A20. Find the Majority Element (> n/2 times) — LeetCode 169
+
+A21. Find Maximum Sum Subarray (Kadane’s Algorithm) — LeetCode 53
+A22. Find Subarray with Given Sum — LeetCode 560
+A24. Find Peak Element in an Array — LeetCode 162
+A25. Find Pair with Given Sum in an Array — LeetCode 1 / 167
+A26. Find Triplet with Given Sum in an Array — LeetCode 15
+A27. Sort an Array of 0s, 1s, and 2s — LeetCode 75
+A28. Find Median of an Unsorted Array — LeetCode 215
+A29. Find Longest Consecutive Subsequence — LeetCode 128
+A30. Find Minimum Number of Jumps — LeetCode 45
+
+A31. Trapping Rain Water Problem — LeetCode 42
+A32. Maximum Product Subarray — LeetCode 152
+A33. Minimum Element in a Rotated Sorted Array — LeetCode 153
+A34. Search in a Rotated Sorted Array — LeetCode 33
+A35. Find First and Last Occurrence of an Element — LeetCode 34
+A36. Count Inversions in an Array — LeetCode 493 (Reverse Pairs — closest)
+A37. Maximum Profit from Stock Prices — LeetCode 121 / 122
+A38. Find k-th Largest and Smallest Element — LeetCode 215 / 703 / 373
+A39. Find All Subarrays with Sum Equal to k — LeetCode 560
+A40. Maximum Circular Subarray Sum — LeetCode 918

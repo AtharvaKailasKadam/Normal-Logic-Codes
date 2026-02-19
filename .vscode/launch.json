@@ -2,6 +2,48 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Selection_Sort",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Selection_Sort",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Largest_Element_in_Array",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Largest_Element_in_Array",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Char_Hashing_Code_3",
+      "request": "launch",
+      "mainClass": "HASHING.Char_Hashing_Code_3",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Char_Hashing_Code_2",
+      "request": "launch",
+      "mainClass": "HASHING.Char_Hashing_Code_2",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Int_Hashing_Code_1",
+      "request": "launch",
+      "mainClass": "HASHING.Int_Hashing_Code_1",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Hashing_Code_1",
+      "request": "launch",
+      "mainClass": "HASHING.Hashing_Code_1",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

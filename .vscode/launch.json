@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Merge_Sort",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Merge_Sort",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Insertion_Sort",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Insertion_Sort",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Bubble_Sort1",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Bubble_Sort1",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
       "name": "Selection_Sort",
       "request": "launch",
       "mainClass": "Practice_Questions.Selection_Sort",

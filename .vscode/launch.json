@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "A14_Duplicate_Elements_In_Array_Using_SET",
+      "request": "launch",
+      "mainClass": "A14_Duplicate_Elements_In_Array_Using_SET",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "A43_Check_If_Array_Sorted",
+      "request": "launch",
+      "mainClass": "A43_Check_If_Array_Sorted",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "A41_Second_Smallest_Element_In_Array",
+      "request": "launch",
+      "mainClass": "A41_Second_Smallest_Element_In_Array",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "A42_Second_Largest_Element_In_Array",
+      "request": "launch",
+      "mainClass": "A42_Second_Largest_Element_In_Array",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
       "name": "Merge_Sort",
       "request": "launch",
       "mainClass": "Practice_Questions.Merge_Sort",

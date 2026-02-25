@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Right_Rotate_Array",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Right_Rotate_Array",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
+      "name": "Left_Rotate_Array",
+      "request": "launch",
+      "mainClass": "Practice_Questions.Left_Rotate_Array",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
       "name": "A14_Duplicate_Elements_In_Array_Using_SET",
       "request": "launch",
       "mainClass": "A14_Duplicate_Elements_In_Array_Using_SET",

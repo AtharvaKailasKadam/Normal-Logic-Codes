@@ -25,6 +25,7 @@ public class Recursion
         int n = sc.nextInt();
         System.out.println("Enter the String you want to Print : ");
         String s = sc.next();
+        sc.close();
 
         Recursion obj = new Recursion();
         obj.RecursionName(n, s);

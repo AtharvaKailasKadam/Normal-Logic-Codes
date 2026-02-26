@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "A17_Union_of_Array",
+      "request": "launch",
+      "mainClass": "A17_Union_of_Array",
+      "projectName": "Normal-Logic-Codes_3ba0726a"
+    },
+    {
+      "type": "java",
       "name": "Right_Rotate_Array",
       "request": "launch",
       "mainClass": "Practice_Questions.Right_Rotate_Array",
